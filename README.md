@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayyb
 - 👀 I’m interested in Javascript(Vue,React), Python, SQL
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
